@@ -2,16 +2,16 @@
     "activities":[
     {
       "id": "1",
-      "video_url": "https://www.youtube.com/watch?v=fqI-feIYfhY",
-      "name": "Surf survivor",
+      "video_url": "https://www.youtube.com/watch?v=XKVY6iwyzMs",
+      "name": "Sea Kayaking Tour",
       "description": "The surf survivor ...",
-      "duration": "00:00:36",
+      "duration": "00:01:17",
       "created_by": "Newquay Activity Centre",
       "image": "https://newquayactivitycentre.co.uk/wp-content/uploads/sea-kayak-tour-03.webp",
-      "popularity": "10",
+      "popularity": "3",
       "category_id": "2",
-      "category": "Surfing",
-      "keywords": "surfing,cornwall,lessons"
+      "category": "Kayaking",
+      "keywords": "Kayaking,Kayak,lessons"
     },
     {
       "id": "2",
