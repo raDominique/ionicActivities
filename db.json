@@ -1,5 +1,4 @@
-{
-  "activities": [
+[
     {
       "id": "1",
       "video_url": "https://www.youtube.com/watch?v=fqI-feIYfhY",
@@ -92,4 +91,3 @@
       "keywords": "Kayaking,Kayak,lessons"
     }
   ]
-}
