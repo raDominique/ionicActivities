@@ -51,45 +51,6 @@
       "category_id": "3",
       "category": "Art",
       "keywords": "Art,Spray Paint,Moon Forest"
-    },
-    {
-      "id": "5",
-      "video_url": "https://www.youtube.com/watch?v=XKVY6iwyzMs",
-      "name": "Sea Kayaking Tour",
-      "description": "The surf survivor ...",
-      "duration": "00:01:17",
-      "created_by": "Newquay Activity Centre",
-      "image": "https://newquayactivitycentre.co.uk/wp-content/uploads/2018/07/kayaking-sea-kayak-tour-3.jpg",
-      "popularity": "3",
-      "category_id": "2",
-      "category": "Kayaking",
-      "keywords": "Kayaking,Kayak,lessons"
-    },
-    {
-      "id": "6",
-      "video_url": "https://www.youtube.com/watch?v=XKVY6iwyzMs",
-      "name": "Sea Kayaking Tour",
-      "description": "The surf survivor ...",
-      "duration": "00:01:17",
-      "created_by": "Newquay Activity Centre",
-      "image": "https://newquayactivitycentre.co.uk/wp-content/uploads/2018/07/kayaking-sea-kayak-tour-3.jpg",
-      "popularity": "3",
-      "category_id": "2",
-      "category": "Kayaking",
-      "keywords": "Kayaking,Kayak,lessons"
-    },
-    {
-      "id": "7",
-      "video_url": "https://www.youtube.com/watch?v=XKVY6iwyzMs",
-      "name": "Sea Kayaking Tour",
-      "description": "The surf survivor ...",
-      "duration": "00:01:17",
-      "created_by": "Newquay Activity Centre",
-      "image": "https://newquayactivitycentre.co.uk/wp-content/uploads/2018/07/kayaking-sea-kayak-tour-3.jpg",
-      "popularity": "3",
-      "category_id": "2",
-      "category": "Kayaking",
-      "keywords": "Kayaking,Kayak,lessons"
     }
   ]
 }
